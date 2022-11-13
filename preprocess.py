@@ -41,7 +41,7 @@ print ("Average height and width of the filtered photos:", int(avg_height), "x",
 
 print ("Resizing the photos that pass dimension thesholds into the average dimensions:")
 
-for filepath in tqdm(glob.iglob("Embroidery/**/*.*", recursive=True), ascii=True, desc="Progess", total=len(img_list), colour="green"):
+for filepath in tqdm(glob.iglob("Embroidery/**/*.*", recursive=True), ascii="░▒█", desc="Progess", total=len(img_list), colour="green"):
     if filepath in filtered_list:
         img = Image.open(filepath)
         new_image = img.resize((int(avg_height), int(avg_width)))
