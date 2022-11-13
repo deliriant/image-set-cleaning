@@ -32,8 +32,8 @@ avg_width = widths/len(filtered_list)
 
 print ("Total number of images:", len(img_list), "images.")
 print ("-----------------------")
-print ("After filtering out images below our preferred hight/width threshold (800x800):", len(filtered_list), "images remain.")
-print (len(img_list) - len(filtered_list), "images got discareded.")
+print ("After filtering out images below a height/width threshold of 800x800:", len(filtered_list), "images remain.")
+print (len(img_list) - len(filtered_list), "images below threshold - discareded.")
 #print (len(squares), " images have equal height and width.")
 print ("-----------------------")
 
@@ -43,7 +43,7 @@ print ("Average height and width of the filtered photos:", int(avg_height), "x",
 
 print ("resizing the photos that pass dimension thesholds into the average dimensions:")
 
-for filepath in tqdm(glob.iglob("Embroidery/**/*.*", recursive=True), ascii=True, desc="Progess", total=len(img_list)):
+for filepath in tqdm(glob.iglob("Embroidery/**/*.*", recursive=True), ascii=True, desc="Progess", total=len(img_list), colour="green"):
     if filepath in filtered_list:
         img = Image.open(filepath)
         new_image = img.resize((int(avg_height), int(avg_width)))
