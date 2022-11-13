@@ -41,7 +41,7 @@ print ("-----------------------")
 print ("Average height and width of the filtered photos:", int(avg_height), "x", int(avg_width))
 
 
-print ("resizing the photos that pass dimension thesholds into the average dimensions:")
+print ("Resizing the photos that pass dimension thesholds into the average dimensions:")
 
 for filepath in tqdm(glob.iglob("Embroidery/**/*.*", recursive=True), ascii=True, desc="Progess", total=len(img_list), colour="green"):
     if filepath in filtered_list:
@@ -52,5 +52,5 @@ for filepath in tqdm(glob.iglob("Embroidery/**/*.*", recursive=True), ascii=True
         os.makedirs(output_dir, exist_ok=True)
         img.save(output_filepath, 'JPEG')
 
-
+print ("-----------------------")
 print ("Saved the final set to the \"Final\" directory preserving the original folder structure.")
