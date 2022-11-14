@@ -36,9 +36,9 @@ print (len(img_list) - len(filtered_list), "images below threshold - discareded.
 #print (len(squares), " images have equal height and width.")
 print ("-----------------------")
    
-print ("Average height and width of the filtered photos:", int(avg_height), "x", int(avg_width))
+print ("Average height and width of the filtered images:", int(avg_height), "x", int(avg_width))
 
-print ("Resizing the photos that passed the dimension thesholds into the average dimensions:")
+print ("Resizing the images that passed the dimension thresholds to the average dimensions:")
 
 
 
