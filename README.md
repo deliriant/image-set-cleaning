@@ -9,7 +9,7 @@
 ## About <a name = "about"></a>
 
 This mini script / cli tool scans recursively through a directory of images and removes the ones below a certain preset threshold of height and width, then it resizes the images that did not get discarded into the average height and the average width of this same group of images that passed the dimension thresholds to normalize the set.
-And the resulting photos are saved in a separate directory while maintaining the same folder structure as the input directory.
+The resulting photos are saved in a separate directory while maintaining the same folder structure as the input directory.
 
 ## Getting Started <a name = "getting_started"></a>
 
