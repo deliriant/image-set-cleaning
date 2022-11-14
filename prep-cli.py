@@ -1,8 +1,9 @@
-from PIL import Image
 import glob
 import os
-from tqdm import tqdm
 import sys
+
+from PIL import Image
+from tqdm import tqdm
 
 img_list = list()
 filtered_list = list()
