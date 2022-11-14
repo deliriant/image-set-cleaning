@@ -10,13 +10,13 @@ filtered_list = list()
 width_threshold, hight_threshold = 800, 800
 heights, widths = 0, 0
 
+# Gathering file paths:
 for filepath in glob.glob('Embroidery/**/*.jpg', recursive=True):
-    #print(filepath)
     img_list.append(filepath)
 
+# moving paths of images that pass the threshold into another list: 
 for i in img_list:
     img = Image.open(i)
-    #print(img.size)
     if (img.size[0] >= hight_threshold) and (img.size[1] >= width_threshold):
         filtered_list.append(i)
         heights += img.size[0]
@@ -24,10 +24,9 @@ for i in img_list:
         #if img.size[0] == img.size[1]:
             #squares.append(img)
 
-
+# Calculating average height and width of all the accepted images:
 avg_height = heights/len(filtered_list)
 avg_width = widths/len(filtered_list)
-#print(avg_height, " ", avg_width)
 
 
 print ("Total number of images:", len(img_list), "images.")
@@ -39,9 +38,11 @@ print ("-----------------------")
    
 print ("Average height and width of the filtered photos:", int(avg_height), "x", int(avg_width))
 
-print ("Resizing the photos that pass dimension thesholds into the average dimensions:")
+print ("Resizing the photos that passed the dimension thesholds into the average dimensions:")
 
-for filepath in tqdm(glob.iglob("Embroidery/**/*.*", recursive=True), ascii="░▒█", desc="Progess", total=len(img_list), colour="green"):
+
+
+for filepath in tqdm(glob.iglob("Embroidery/**/*.jpg", recursive=True), ascii="░▒█", desc="Processing", total=len(img_list), colour="green"):
     if filepath in filtered_list:
         img = Image.open(filepath)
         new_image = img.resize((int(avg_height), int(avg_width)))
@@ -51,4 +52,4 @@ for filepath in tqdm(glob.iglob("Embroidery/**/*.*", recursive=True), ascii="░
         img.save(output_filepath, 'JPEG')
 
 print ("-----------------------")
-print ("Saved the final set to the \"Final\" directory preserving the original folder structure.")
+print ("Saved the final set to the \"Final\" directory preserving the original folder structure inside.")
