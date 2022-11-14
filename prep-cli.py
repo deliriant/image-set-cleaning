@@ -32,8 +32,8 @@ avg_width = widths/len(filtered_list)
 
 print ("Total number of images:", len(img_list), "images.")
 print ("-----------------------")
-print ("After filtering out images below a height/width threshold of 800x800:", len(filtered_list), "images remain.")
-print (len(img_list) - len(filtered_list), "images below threshold - discareded.")
+print ("After filtering out images below "+ sys.argv[1]+"x"+sys.argv[2]+", "+len(filtered_list), "images remain.")
+print (len(img_list) - len(filtered_list), "images below threshold got discarded.")
 #print (len(squares), " images have equal height and width.")
 print ("-----------------------")
    
@@ -53,4 +53,4 @@ for filepath in tqdm(glob.iglob(sys.argv[3]+"/**/*.jpg", recursive=True), ascii=
         img.save(output_filepath, 'JPEG')
 
 print ("-----------------------")
-print ("Saved the final set to the output directory preserving the original folder structure inside.")
+print ("Saved the final set to "+sys.argv[4]+", preserving the original folder structure inside.")
