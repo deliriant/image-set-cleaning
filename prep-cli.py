@@ -11,11 +11,11 @@ filtered_list = list()
 width_threshold, hight_threshold = int(sys.argv[1]), int(sys.argv[2])
 heights, widths = 0, 0
 
-# Gathering file paths:
+# Collecting file paths:
 for filepath in glob.glob(sys.argv[3]+'/**/*.jpg', recursive=True):
     img_list.append(filepath)
 
-# moving paths of images that pass the threshold into another list: 
+# Copying the paths of the images that pass the threshold into another list: 
 for i in img_list:
     img = Image.open(i)
     if (img.size[0] >= hight_threshold) and (img.size[1] >= width_threshold):
@@ -30,18 +30,21 @@ avg_height = heights/len(filtered_list)
 avg_width = widths/len(filtered_list)
 
 
-print ("Total number of images:", len(img_list), "images.")
+print ("Total number of images in the source folder:", len(img_list), "images.")
 print ("-----------------------")
-print ("After filtering out images below "+ sys.argv[1]+"x"+sys.argv[2]+", "+len(filtered_list), "images remain.")
+print ("After filtering out images below "+ sys.argv[1]+"x"+sys.argv[2]+", "+str(len(filtered_list)), "images remain.")
 print (len(img_list) - len(filtered_list), "images below threshold got discarded.")
 #print (len(squares), " images have equal height and width.")
 print ("-----------------------")
    
-print ("Average height and width of the filtered images:", int(avg_height), "x", int(avg_width))
+print ("Average height and width of the filtered images:", str(int(avg_height)) + "x" + str(int(avg_width)))
+print ("Resizing the images that passed the dimension thresholds to the average dimensions...")
 
-print ("Resizing the images that passed the dimension thresholds to the average dimensions:")
 
 
+# cloning source folder and paths, and changing the name of the source folder into the output folder.
+# keeping in mind not to clone any directories with no images that passed threshold.
+# then creating new photos from the source with the new dimesnions.
 
 for filepath in tqdm(glob.iglob(sys.argv[3]+"/**/*.jpg", recursive=True), ascii="░▒█", desc="Processing", total=len(img_list), colour="green"):
     if filepath in filtered_list:
