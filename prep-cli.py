@@ -37,7 +37,7 @@ print ("After filtering out images below "+ sys.argv[1]+"x"+sys.argv[2]+", "+str
 print (len(img_list) - len(filtered_list), "images below threshold got discarded.")
 #print (len(squares), " images have equal height and width.")
 print ("-----------------------")
-   
+
 print ("Average height and width of the filtered images:", str(int(avg_height)) + "x" + str(int(avg_width)))
 print ("Resizing the images that passed the dimension thresholds to the average dimensions...")
 
