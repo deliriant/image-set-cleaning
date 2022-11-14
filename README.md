@@ -1,4 +1,4 @@
-# Image Set Preprocessor
+# Image Set Cleaner
 
 ## Table of Contents
 
