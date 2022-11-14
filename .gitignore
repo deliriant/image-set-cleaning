@@ -1,3 +1,10 @@
-Embroidery/
-Final/
-.DS_Store
+# ignore all files
+*
+
+# don't ignore *.py and *.md
+!*.py
+!*.md
+
+
+## unnecessary for now
+# !*/ # check files recursively
