@@ -5,6 +5,11 @@ import sys
 from PIL import Image
 from tqdm import tqdm
 
+
+png_list = list()
+jpg_list = list()
+jpeg_list = list()
+
 img_list = list()
 filtered_list = list()
 #squares = list()
@@ -12,9 +17,25 @@ filtered_list = list()
 width_threshold, hight_threshold = int(sys.argv[1]), int(sys.argv[2])
 heights, widths = 0, 0
 
-# Collecting file paths:
-for filepath in glob.glob(sys.argv[3]+'/**/*.jpg', recursive=True):
+# Collecting *.png paths:
+for filepath in glob.glob(sys.argv[3]+'/**/*.png', recursive=True):
+    png_list.append(filepath)
     img_list.append(filepath)
+
+# Collecting *.jpg paths:
+for filepath in glob.glob(sys.argv[3]+'/**/*.jpg', recursive=True):
+    jpg_list.append(filepath)
+    img_list.append(filepath)
+
+# Collecting *.png paths:
+for filepath in glob.glob(sys.argv[3]+'/**/*.jpeg', recursive=True):
+    jpeg_list.append(filepath)
+    img_list.append(filepath)
+
+
+print ("Found", len(png_list), "png,", len(jpg_list), "jpg and", len(jpeg_list), "jpeg images.")
+
+
 
 # Copying the paths of the images that pass the threshold into another list: 
 for i in img_list:
@@ -57,4 +78,4 @@ for filepath in tqdm(glob.iglob(sys.argv[3]+"/**/*.jpg", recursive=True), ascii=
         img.save(output_filepath, 'JPEG')
 
 print ("-----------------------")
-print ("Saved the finalized imageset to "+sys.argv[4]+", preserving the original folder structure inside.")
+print ("Saved the finalized imageset to ./"+sys.argv[4]+"/, preserving the original folder structure inside.")
