@@ -57,4 +57,4 @@ for filepath in tqdm(glob.iglob(sys.argv[3]+"/**/*.jpg", recursive=True), ascii=
         img.save(output_filepath, 'JPEG')
 
 print ("-----------------------")
-print ("Saved the final set to "+sys.argv[4]+", preserving the original folder structure inside.")
+print ("Saved the finalized imageset to "+sys.argv[4]+", preserving the original folder structure inside.")
