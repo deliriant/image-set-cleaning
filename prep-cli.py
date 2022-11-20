@@ -68,14 +68,13 @@ print ("Resizing the images that passed the dimension thresholds to the average 
 # keeping in mind not to clone any directories with no images that passed threshold.
 # then creating new photos from the source with the new dimesnions.
 
-for filepath in tqdm(glob.iglob(sys.argv[3]+"/**/*.jpg", recursive=True), ascii="░▒█", desc="Processing", total=len(img_list), colour="green"):
-    if filepath in filtered_list:
-        img = Image.open(filepath)
-        new_image = img.resize((int(avg_height), int(avg_width)))
-        output_filepath = filepath.replace(sys.argv[3], sys.argv[4])
-        output_dir = os.path.dirname(output_filepath)
-        os.makedirs(output_dir, exist_ok=True)
-        img.save(output_filepath, 'JPEG')
+for filepath in tqdm(filtered_list, ascii="░▒█", desc="Processing", total=len(filtered_list), colour="green"):
+    img = Image.open(filepath)
+    new_image = img.resize((int(avg_height), int(avg_width)))
+    output_filepath = filepath.replace(sys.argv[3], sys.argv[4])
+    output_dir = os.path.dirname(output_filepath)
+    os.makedirs(output_dir, exist_ok=True)
+    img.save(output_filepath, 'JPEG')
 
 print ("-----------------------")
 print ("Saved the finalized imageset to ./"+sys.argv[4]+"/, preserving the original folder structure inside.")
