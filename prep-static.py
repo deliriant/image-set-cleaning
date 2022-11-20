@@ -1,3 +1,4 @@
+'''
 from PIL import Image
 import glob
 import os
@@ -35,7 +36,7 @@ print ("After filtering out images below a height/width threshold of 800x800:", 
 print (len(img_list) - len(filtered_list), "images below threshold - discareded.")
 #print (len(squares), " images have equal height and width.")
 print ("-----------------------")
-   
+
 print ("Average height and width of the filtered images:", int(avg_height), "x", int(avg_width))
 
 print ("Resizing the images that passed the dimension thresholds to the average dimensions:")
@@ -53,3 +54,4 @@ for filepath in tqdm(glob.iglob("Embroidery/**/*.jpg", recursive=True), ascii="â
 
 print ("-----------------------")
 print ("Saved the final set to the \"Final\" directory preserving the original folder structure inside.")
+'''
