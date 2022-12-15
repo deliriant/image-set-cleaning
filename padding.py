@@ -24,8 +24,8 @@ def resize_with_padding(img, expected_size):
 
 
 if __name__ == "__main__":
-    path = '/Users/muhannad/University/Masters-3rd/AdvMachineLearning/project/subset'
-    new_p = '/Users/muhannad/University/Masters-3rd/AdvMachineLearning/project/finalizedSubset'
+    path = '/Users/muhannad/University/Masters-3rd/AdvMachineLearning/project/subsetCropped'
+    new_p = '/Users/muhannad/University/Masters-3rd/AdvMachineLearning/project/subset512'
     
     for x in os.listdir(path):
         curr_path = os.path.join(path, x)
