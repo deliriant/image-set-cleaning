@@ -1,10 +1,17 @@
 # ignore all files
-*
+*.jpeg
+*.jpg
+*.png
+*.pdf
 
 # don't ignore *.py and *.md
 !*.py
 !*.md
-
+!*.txt
+!*.csv
+!*.json
+!*.jsonl
+!*.sh
 
 ## unnecessary for now
 # !*/ # check files recursively

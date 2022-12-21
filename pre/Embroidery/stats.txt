@@ -1,0 +1,37 @@
+      2 Bakony
+      1 Bodrogköz
+      3 Bogácsi hímzés
+      2 Boldogi hímzés
+     39 Borsod
+     28 Buzsák-Somogy megye
+      1 Csallóköz
+     42 Drávaszög
+      9 Dunántúli hímzések
+      4 Felső-Maros menti
+     12 Felvidék
+    127 Győrffy_hímzés
+     20 Hódmezővásárhely
+      4 Höveji hímzés
+     28 Jászság
+     10 Kalocsa
+     97 Kalotaszeg
+     84 Kolozs megye Erdély
+     19 Kun
+     52 Matyó
+     72 Mezőség_Erdély
+     32 Nagykunság
+      4 Nogradmegyei_szabadrajzu_himzések_Palóc
+      4 Orosházi
+     23 Rábaköz
+     21 Sárköz
+      7 Sióagárd
+      1 stats.txt
+     28 Székely
+      5 Széki
+     36 Szilágyság
+      3 Tiszántúl
+      5 Turai hímzés
+     90 Úri himzés
+     50 Vasmegye
+      6 Zalai hímzés
+     11 Zoboralja

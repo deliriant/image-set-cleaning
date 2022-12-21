@@ -1,0 +1,1100 @@
+Borsodi12(4).jpg -> True
+Borsodi7(2).jpg -> True
+Borsodi13.jpg -> True
+20190523112533915_0005(2).jpg -> True
+20190523115118774_Page_24.jpg -> True
+EME_ETF_159_Palotay-Mezosegi magyar himzesek_Page_015(1).jpg -> True
+nagykun11.jpg -> True
+Szilagysag24.jpg -> True
+B785_B28780_MNM01_0004_tif.jpg -> True
+PalotayGertrud_EM-1942_47_04epa_516-529_Page_21.jpg -> True
+jaszssag16.jpg -> True
+B785_B28780_MNM01_0005_tif.jpg -> True
+20190523115118774_Page_10.jpg -> True
+PalotayGertrud_EM-1942_47_04epa_516-529_Page_23.jpg -> True
+Szekely_keresztszemes24.jpg -> True
+MEGY_VASM_Sk_1996_Vasmegyenepmuveszete__pages150-174_Page_19_2.jpg -> True
+Gyorffy Istvan_A cifraszur _2_Page_227_2.jpg -> True
+DravaszogiHimzesek15(1).jpg -> False
+Kalotaszeg22.jpg -> True
+nagykun12.jpg -> True
+PalotayGertrud_EM-1942_47_04epa_516-529_Page_14.jpg -> True
+MEGY_VASM_Sk_1996_Vasmegyenepmuveszete__pages150-174_Page_25_1.jpg -> True
+MEGY_VASM_Sk_1996_Vasmegyenepmuveszete__pages150-174_Page_21_2.jpg -> True
+Gyorffy_Cifraszur21_1.jpg -> True
+MEGY_VASM_Sk_1996_Vasmegyenepmuveszete__pages200-224_Page_10_1.jpg -> True
+Gyorffy Istvan_A cifraszur _2_Page_080_2.jpg -> True
+Gyorffy_Cifraszur28_1.jpg -> True
+Gyorffy_Cifraszur56_1.jpg -> True
+Borsodi6(4).jpg -> False
+Kalotaszeg4.jpeg -> True
+Gyorffy Istvan_A cifraszur _2_Page_235_2.jpg -> True
+Borsodi10(4).jpg -> True
+Mezoseg_Erdely.jpg -> True
+zoboralja5.jpg -> True
+MEGY_VASM_Sk_1996_Vasmegyenepmuveszete__pages169-169_1.jpg -> True
+Gyorffy Istvan_A cifraszur _2_Page_169_1.jpg -> True
+nagykun18.jpg -> True
+PalotayGertrud_Mezosegimagyarhimzesek_07867_Page_098.jpg -> True
+Szekely_keresztszemes9.jpg -> True
+DravaszogiHimzesek4.jpg -> True
+20190822103435946_0011.jpg -> True
+20190523112533915_0027.jpg -> True
+20190523115118774_Page_05(4).jpg -> True
+jaszssag3.jpg -> True
+PalotayGertrud_EM-1942_47_04epa_516-529_Page_17CROP2.jpg -> True
+PalotayGertrud_EM-1942_47_04epa_516-529_Page_19.jpg -> True
+Gyorffy Istvan_A cifraszur _2_Page_170_1.jpg -> True
+MEGY_VASM_Sk_1996_Vasmegyenepmuveszete__pages150-174_Page_15_1.jpg -> True
+EME_ETF_159_Palotay-Mezosegi magyar himzesek_Page_011.jpg -> True
+Gyorffy_Cifraszur29_1.jpg -> True
+Palotay Gertrud_ Mezosegi magyar himzesek_07867_Page_087_2.jpg -> True
+MEGY_VASM_Sk_1996_Vasmegyenepmuveszete__pages170-180_Page_11_2.jpg -> True
+Borsodi14.jpg -> True
+Szekely_keresztszemes10.jpg -> True
+Borsodi25.jpg -> True
+Szekely_keresztszemes3.jpg -> True
+jaszssag2.jpg -> True
+Gyorffy Istvan_A cifraszur _2_Page_239_3.jpg -> True
+Palotay Gertrud_ Mezosegi magyar himzesek_07867_Page_026_1.jpg -> True
+B785_B28788_MNM09_0012_tif.jpg -> True
+KalotaszegMalonyai4.jpeg -> True
+jaszssag19.jpg -> True
+Palotay Gertrud_ Mezosegi magyar himzesek_07867_Page_076_2.jpg -> True
+B785_B28788_MNM09_0031_tif.jpg -> True
+Borsodi14(1).jpg -> True
+Szekely_keresztszemes2.jpg -> True
+B785_B28788_MNM09_0001_tif.jpg -> True
+Borsodi25(4).jpg -> True
+PalotayGertrud_EM-1942_47_04epa_516-529_Page_17.jpg -> True
+Szekely_keresztszemes1.jpg -> True
+DravaszogiHimzesek37(1).jpg -> True
+Palotay Gertrud_ Mezosegi magyar himzesek_07867_Page_037_1.jpg -> True
+UndiMariska_sarkozi15.jpg -> True
+EME_ETF_159_Palotay-Mezosegi magyar himzesek_Page_009(1).jpg -> True
+Kalotaszeg15.jpeg -> True
+Borsodi17(1).jpg -> True
+DravaszogiHimzesek42.jpg -> True
+MEGY_VASM_Sk_1996_Vasmegyenepmuveszete__pages150-174_Page_02_1.jpg -> True
+20190523115118774_Page_52.jpg -> True
+Palotay Gertrud_ Mezosegi magyar himzesek_07867_Page_011_2.jpg -> True
+Szilagysag15CROP.jpg -> True
+Gyorffy Istvan_A cifraszur _2_Page_167_2.jpg -> True
+EME_ETF_159_Palotay-Mezosegi magyar himzesek_Page_029(2).jpg -> True
+PalotayGertrud_EM-1942_47_04epa_516-529_Page_22.jpg -> True
+Szilagysag22.jpg -> True
+Gyorffy Istvan_A cifraszur _2_Page_174_3.jpg -> True
+Borsodi12(1).jpg -> True
+Borsodi7(3).jpg -> True
+20190523115118774_Page_20.jpg -> True
+Gyorffy Istvan_A cifraszur _2_Page_239_6.jpg -> True
+B785_B28788_MNM09_0025_tif.jpg -> True
+Palotay Gertrud_ Mezosegi magyar himzesek_07867_Page_072_1.jpg -> True
+MEGY_VASM_Sk_1996_Vasmegyenepmuveszete__pages175-199_Page_02_1.jpg -> True
+UndiMariska_sarkozi1.jpg -> True
+20190523112533915_0022.jpg -> True
+Borsodi25(6).jpg -> True
+Borsodi22.jpg -> True
+DravaszogiHimzesek37.jpg -> True
+EME_ETF_159_Palotay-Mezosegi magyar himzesek_Page_027.jpg -> True
+PalotayGertrud_Mezosegimagyarhimzesek_07867_Page_102.jpg -> True
+B785_B28788_MNM09_0028_tif.jpg -> True
+EME_ETF_159_Palotay-Mezosegi magyar himzesek_Page_011(1).jpg -> True
+PalotayGertrud_Mezosegimagyarhimzesek_07867_Page_098CROP.jpg -> True
+Borsodi8(4).jpg -> True
+jaszssag21.jpg -> True
+DravaszogiHimzesek27.jpg -> True
+Gyorffy Istvan_A cifraszur _2_Page_137_1.jpg -> True
+Gyorffy Istvan_A cifraszur _2_Page_090_3.jpg -> True
+Borsodi7(5).jpg -> True
+DravaszogiHimzesek11.jpg -> True
+UndiMariska_sarkozi10.jpg -> True
+Palotay Gertrud_ Mezosegi magyar himzesek_07867_Page_088_2.jpg -> True
+B785_B28788_MNM09_0027_tif.jpg -> False
+Kalotaszeg24.jpg -> True
+Borsodi3(2).jpg -> True
+Borsodi8(9).jpg -> True
+DravaszogiHimzesek20.jpg -> True
+Gyorffy Istvan_A cifraszur _2_Page_149_4.jpg -> True
+20190523112533915_0019.jpg -> True
+Gyorffy Istvan_A cifraszur _2_Page_163_1.jpg -> True
+20190523112533915_0010.jpg -> True
+Borsodi8(7).jpg -> True
+Gyorffy Istvan_A cifraszur _2_Page_061_2.jpg -> True
+MEGY_VASM_Sk_1996_Vasmegyenepmuveszete__pages200-224_Page_16_4.jpg -> True
+Palotay Gertrud_ Mezosegi magyar himzesek_07867_Page_040_2.jpg -> True
+Palotay Gertrud_ Mezosegi magyar himzesek_07867_Page_035_2.jpg -> True
+Borsodi19.jpg -> True
+MEGY_VASM_Sk_1996_Vasmegyenepmuveszete__pages225-249_Page_23_4.jpg -> True
+Palotay Gertrud_ Mezosegi magyar himzesek_07867_Page_038_1.jpg -> True
+Borsodi8(5).jpg -> True
+DravaszogiHimzesek30.jpg -> True
+UndiMariska_sarkozi18.jpg -> True
+Gyorffy Istvan_A cifraszur _2_Page_215_1.jpg -> True
+20190523115118774_Page_23(1).jpg -> True
+MEGY_VASM_Sk_1996_Vasmegyenepmuveszete__pages225-249_Page_25_2.jpg -> True
+20190523115118774_Page_19.jpg -> True
+Szilagysag27.jpg -> True
+Somogy3.jpg -> True
+Palotay Gertrud_ Mezosegi magyar himzesek_07867_Page_014_2.jpg -> True
+DravaszogiHimzesek8(1).jpg -> True
+Gyorffy Istvan_A cifraszur _2_Page_227_3.jpg -> True
+20190822103435946_0017.jpg -> True
+DravaszogiHimzesek29.jpg -> True
+MEGY_VASM_Sk_1996_Vasmegyenepmuveszete__pages175-199_Page_09_1.jpg -> True
+Borsodi6(2).jpg -> True
+EME_ETF_159_Palotay-Mezosegi magyar himzesek_Page_030(1).jpg -> True
+PalotayGertrud_EM-1942_47_04epa_516-529_Page_13.jpg -> True
+Borsodi13(2).jpg -> True
+20190523115118774_Page_53.jpg -> True
+DravaszogiHimzesek27(1).jpg -> True
+20190523115118774_Page_39.jpg -> True
+EME_ETF_159_Palotay-Mezosegi magyar himzesek_Page_013(1).jpg -> True
+Szilagysag15.jpg -> True
+MEGY_VASM_Sk_1996_Vasmegyenepmuveszete__pages200-224_Page_09_2.jpg -> True
+MEGY_VASM_Sk_1996_Vasmegyenepmuveszete__pages200-224_Page_16_5.jpg -> True
+MEGY_VASM_Sk_1996_Vasmegyenepmuveszete__pages150-174_Page_20_1.jpg -> True
+Palotay Gertrud_ Mezosegi magyar himzesek_07867_Page_062_1.jpg -> True
+kepeslapok_957579CROP8.jpg -> True
+B785_B28788_MNM09_0004_tif.jpg -> True
+20190523112533915_0016(1).jpg -> True
+B785_B28788_MNM09_0002_tif.jpg -> True
+20190523112533915_0034(1).jpg -> True
+20190523115118774_Page_34.jpg -> True
+20190523115118774_Page_16.jpg -> True
+MEGY_VASM_Sk_1996_Vasmegyenepmuveszete__pages150-174_Page_11_2.jpg -> True
+Gyorffy Istvan_A cifraszur _2_Page_089_1.jpg -> True
+Palotay Gertrud_ Mezosegi magyar himzesek_07867_Page_077_1.jpg -> True
+DravaszogiHimzesek36.jpg -> True
+Borsodi15(1).jpg -> True
+Palotay Gertrud_ Mezosegi magyar himzesek_07867_Page_090_2.jpg -> True
+PalotayGertrud_EM-1942_47_04epa_516-529_Page_10CROP.jpg -> True
+20190523112533915_0033.jpg -> True
+mintakonyv1.jpg -> True
+20190822103435946_0018(1).jpg -> True
+Gyorffy Istvan_A cifraszur _2_Page_235_3.jpg -> True
+20190523112533915_0007.jpg -> True
+Szilagysag7.jpg -> True
+20190822103435946_0005.jpg -> True
+Szekely_keresztszemes12.jpg -> True
+20190523115118774_Page_08(4).jpg -> True
+MEGY_VASM_Sk_1996_Vasmegyenepmuveszete__pages175-199_Page_10_1.jpg -> True
+Gyorffy Istvan_A cifraszur _2_Page_229_2.jpg -> True
+DravaszogiHimzesek31.jpg -> True
+Palotay Gertrud_ Mezosegi magyar himzesek_07867_Page_058_2.jpg -> True
+20190523112533915_0018(1).jpg -> True
+Borsodi1(2).jpg -> True
+Gyorffy Istvan_A cifraszur _2_Page_091_1.jpg -> True
+B785_B28788_MNM09_0003_tif.jpg -> True
+20190523115118774_Page_51.jpg -> True
+20190822103435946_0006.jpg -> True
+B785_B28788_MNM09_0014_tif.jpg -> True
+B785_B28788_MNM09_0005_tif.jpg -> False
+Gyorffy Istvan_A cifraszur _2_Page_090_1.jpg -> True
+20190822103435946_0017(3).jpg -> True
+MEGY_VASM_Sk_1996_Vasmegyenepmuveszete__pages150-174_Page_13_2.jpg -> True
+DravaszogiHimzesek40.jpg -> True
+Szilagysag2.jpg -> True
+jaszssag22.jpg -> True
+DravaszogiHimzesek1(5).jpg -> True
+B785_B28780_MNM01_0006_tif.jpg -> True
+B785_B28780_MNM01_0003_tif.jpg -> True
+DravaszogiHimzesek23.jpg -> True
+nagykun31.jpg -> True
+Gyorffy Istvan_A cifraszur _2_Page_082_3.jpg -> True
+Palotay Gertrud_ Mezosegi magyar himzesek_07867_Page_034_3.jpg -> True
+Borsodi25(1).jpg -> True
+jaszssag13.jpg -> True
+20190523115118774_Page_15.jpg -> True
+Gyorffy Istvan_A cifraszur _2_Page_073_2.jpg -> True
+Hodmezovasarhelyi szorhimzes2_2.jpg -> True
+20190523115118774_Page_25.jpg -> True
+Gyorffy_Cifraszu7_3.jpg -> True
+Szilagysag9.jpg -> True
+DravaszogiHimzesek29(1).jpg -> True
+B785_B28788_MNM09_0006_tif.jpg -> True
+DravaszogiHimzesek22(1).jpg -> True
+Borsodi8(8).jpg -> True
+Gyorffy_Cifraszur46_1.jpg -> True
+20190523115118774_Page_35.jpg -> True
+20190523112533915_0015.jpg -> True
+Gyorffy Istvan_A cifraszur _2_Page_091_2.jpg -> True
+Gyorffy Istvan_A cifraszur _2_Page_227_1.jpg -> True
+MEGY_VASM_Sk_1996_Vasmegyenepmuveszete__pages150-174_Page_23_1.jpg -> True
+nagykun25.jpg -> True
+20190822103435946_0020.jpg -> True
+Palotay Gertrud_ Mezosegi magyar himzesek_07867_Page_015_2.jpg -> True
+nagykun4.jpg -> True
+20190822103435946_0012(1).jpg -> True
+jaszssag24.jpg -> True
+Gyorffy Istvan_A cifraszur _2_Page_139_2.jpg -> True
+20190523112533915_0006.jpg -> True
+MEGY_VASM_Sk_1996_Vasmegyenepmuveszete__pages170-180_Page_09_1.jpg -> True
+DravaszogiHimzesek1(7).jpg -> True
+PalotayGertrud_EM-1942_47_04epa_516-529_Page_22CROP.jpg -> True
+20190523112533915_0012(1).jpg -> True
+20190523112533915_0021.jpg -> True
+B785_B28788_MNM09_0010_tif.jpg -> True
+jaszssag6.jpg -> True
+20190523115118774_Page_01.jpg -> True
+Borsodi11(3).jpg -> True
+Borsodi11(4).jpg -> True
+nagykun23.jpg -> True
+Somogy1.jpg -> True
+nagykun2.jpg -> True
+Szekely_keresztszemes5.jpg -> True
+EME_ETF_159_Palotay-Mezosegi magyar himzesek_Page_026(1).jpg -> True
+B785_B28780_MNM01_0013_tif.jpg -> True
+Kalotaszeg21.jpg -> True
+Gyorffy_Cifraszur31_1.jpg -> True
+Gyorffy Istvan_A cifraszur _2_Page_063_1.jpg -> True
+Palotay Gertrud_ Mezosegi magyar himzesek_07867_Page_067_1.jpg -> True
+MEGY_VASM_Sk_1996_Vasmegyenepmuveszete__pages150-174_Page_09_1.jpg -> True
+Szilagysag17CROP.jpg -> True
+jaszssag7.jpg -> True
+DravaszogiHimzesek1(8).jpg -> True
+zoboralja10.jpg -> True
+Gyorffy Istvan_A cifraszur _2_Page_165_2.jpg -> True
+zoboralja12.jpg -> True
+PalotayGertrud_EM-1942_47_04epa_516-529_Page_18.jpg -> True
+Gyorffy_Cifraszur52_1.jpg -> True
+20190523112533915_0026.jpg -> True
+Borsodi13(3).jpg -> True
+Gyorffy_Cifraszur51_1.jpg -> True
+Gyorffy Istvan_A cifraszur _2_Page_149_2.jpg -> True
+zoboralja4.jpg -> True
+DravaszogiHimzesek19.jpg -> True
+PalotayGertrud_Mezosegimagyarhimzesek_07867_Page_092.jpg -> True
+DravaszogiHimzesek33(1).jpg -> True
+B785_B28788_MNM09_0007_tif.jpg -> True
+nagykun13.jpg -> True
+20190523115118774_Page_11.jpg -> True
+20190822103435946_0017(1).jpg -> True
+20190523115118774_Page_23.jpg -> True
+EME_ETF_159_Palotay-Mezosegi magyar himzesek_Page_029(1).jpg -> True
+20190523115118774_Page_07.jpg -> True
+PalotayGertrud_Mezosegimagyarhimzesek_07867_Page_103CROP.jpg -> True
+Szekely_keresztszemes23.jpg -> True
+UndiMariska_sarkozi6.jpg -> True
+MEGY_VASM_Sk_1996_Vasmegyenepmuveszete__pages175-199_Page_10_4.jpg -> True
+20190523115118774_Page_36.jpg -> True
+Gyorffy Istvan_A cifraszur _2_Page_087_2.jpg -> True
+Palotay Gertrud_ Mezosegi magyar himzesek_07867_Page_009_2.jpg -> True
+MEGY_VASM_Sk_1996_Vasmegyenepmuveszete__pages150-174_Page_23_2.jpg -> True
+Szekely_keresztszemes15.jpg -> True
+20190523112533915_0029.jpg -> True
+Borsodi25(5).jpg -> True
+Gyorffy Istvan_A cifraszur _2_Page_225_1.jpg -> True
+20190523115118774_Page_06(4).jpg -> False
+MEGY_VASM_Sk_1996_Vasmegyenepmuveszete__pages200-224_Page_16_2.jpg -> True
+Palotay Gertrud_ Mezosegi magyar himzesek_07867_Page_035_1.jpg -> True
+Borsodi7(7).jpg -> True
+20190523115118774_Page_06(1).jpg -> True
+B785_B28788_MNM09_0020_tif.jpg -> True
+20190523115118774_Page_50(1).jpg -> True
+20190523112533915_0023.jpg -> True
+Gyorffy Istvan_A cifraszur _2_Page_172_1.jpg -> True
+20190523115118774_Page_05(6).jpg -> True
+Gyorffy_Cifraszu10_1.jpg -> True
+Szekely_keresztszemes19.jpg -> True
+B785_B28780_MNM01_0012_tif.jpg -> True
+Palotay Gertrud_ Mezosegi magyar himzesek_07867_Page_029_1.jpg -> True
+20190523115118774_Page_64.jpg -> True
+Gyorffy_Cifraszur24_1.jpg -> True
+Gyorffy Istvan_A cifraszur _2_Page_084_2.jpg -> True
+20190822103435946_0010.jpg -> True
+MEGY_VASM_Sk_1996_Vasmegyenepmuveszete__pages150-174_Page_25_2.jpg -> True
+20190523115118774_Page_25(1).jpg -> True
+Gyorffy_Cifraszur61_1.jpg -> True
+Gyorffy Istvan_A cifraszur _2_Page_061_1.jpg -> True
+B785_B28788_MNM09_0022_tif.jpg -> True
+20190523112533915_0025.jpg -> True
+20190523115118774_Page_55.jpg -> True
+kepeslapok_957579CROP10.jpg -> True
+KalotaszegMalonyai2.jpeg -> True
+20190523115118774_Page_37.jpg -> True
+Kalotaszeg7.jpg -> True
+kepeslapok_957579CROP9.jpg -> True
+Borsodi19(1).jpg -> True
+20190523115118774_Page_08(3).jpg -> True
+Kalotaszeg10.jpg -> True
+EME_ETF_159_Palotay-Mezosegi magyar himzesek_Page_030.jpg -> True
+MEGY_VASM_Sk_1996_Vasmegyenepmuveszete__pages150-174_Page_06_1.jpg -> True
+PalotayGertrud_EM-1942_47_04epa_516-529_Page_12CROP2.jpg -> True
+Gyorffy_Cifraszu7_2.jpg -> True
+UndiMariska_sarkozi4.jpg -> True
+Borsodi3(1).jpg -> True
+B785_B28788_MNM09_0030_tif.jpg -> True
+DravaszogiHimzesek15.jpg -> False
+Palotay Gertrud_ Mezosegi magyar himzesek_07867_Page_089_1.jpg -> True
+zoboralja9.jpg -> True
+Palotay Gertrud_ Mezosegi magyar himzesek_07867_Page_009_1.jpg -> True
+Borsodi1(3).jpg -> True
+Palotay Gertrud_ Mezosegi magyar himzesek_07867_Page_070_2.jpg -> True
+Borsodi8(2).jpg -> True
+DravaszogiHimzesek31(1).jpg -> True
+EME_ETF_159_Palotay-Mezosegi magyar himzesek_Page_016.jpg -> True
+DravaszogiHimzesek41.jpg -> True
+Kalotaszeg2.jpeg -> True
+KalotaszegCROP3.jpeg -> True
+kepeslapok_957579CROP12.jpg -> True
+MEGY_VASM_Sk_1996_Vasmegyenepmuveszete__pages150-174_Page_02_2.jpg -> True
+MEGY_VASM_Sk_1996_Vasmegyenepmuveszete__pages200-224_Page_06_1.jpg -> True
+Gyorffy Istvan_A cifraszur _2_Page_088_1.jpg -> True
+Gyorffy Istvan_A cifraszur _2_Page_161_3.jpg -> True
+20190523112533915_0004.jpg -> True
+20190822103435946_0012.jpg -> True
+nagykun17.jpg -> True
+PalotayGertrud_EM-1942_47_04epa_516-529_Page_10.jpg -> True
+Naszod_Beszterce_1.jpg -> True
+Palotay Gertrud_ Mezosegi magyar himzesek_07867_Page_032_1.jpg -> True
+Borsodi22(1).jpg -> True
+zoboralja6.jpg -> True
+PalotayGertrud_EM-1942_47_04epa_516-529_Page_16.jpg -> True
+DravaszogiHimzesek35(1).jpg -> True
+EME_ETF_159_Palotay-Mezosegi magyar himzesek_Page_032.jpg -> True
+Gyorffy Istvan_A cifraszur _2_Page_239_2.jpg -> True
+Gyorffy Istvan_A cifraszur _2_Page_160_1.jpg -> True
+MEGY_VASM_Sk_1996_Vasmegyenepmuveszete__pages150-174_Page_12_1.jpg -> True
+EME_ETF_159_Palotay-Mezosegi magyar himzesek_Page_010(1).jpg -> True
+Somogy9.jpg -> True
+20190523112533915_0006(1).jpg -> True
+20190523112533915_0008(1).jpg -> True
+Gyorffy Istvan_A cifraszur _2_Page_077_1.jpg -> True
+Mezoseg_ErdelyCROP.jpg -> True
+UndiMariska_sarkozi7.jpg -> True
+MEGY_VASM_Sk_1996_Vasmegyenepmuveszete__pages200-224_Page_09_1.jpg -> True
+Gyorffy Istvan_A cifraszur _2_Page_153_1.jpg -> True
+Gyorffy_Cifraszur60_1.jpg -> True
+EME_ETF_159_Palotay-Mezosegi magyar himzesek_Page_011(2).jpg -> True
+Szilagysag21.jpg -> True
+UndiMariska_sarkozi5.jpg -> True
+MEGY_VASM_Sk_1996_Vasmegyenepmuveszete__pages150-174_Page_16_1.jpg -> True
+20190523115118774_Page_40.jpg -> True
+Szilagysag5.jpg -> True
+Gyorffy Istvan_A cifraszur _2_Page_143_2.jpg -> True
+Gyorffy_Cifraszur20_1.jpg -> True
+Borsodi5(6).jpg -> True
+Szilagysag18.jpg -> True
+20190523112533915_0031.jpg -> True
+20190523115118774_Page_48.jpg -> True
+Borsodi3.jpg -> True
+20190523115118774_Page_44.jpg -> True
+Borsodi5(2).jpg -> True
+Palotay Gertrud_ Mezosegi magyar himzesek_07867_Page_029_3.jpg -> True
+EME_ETF_159_Palotay-Mezosegi magyar himzesek_Page_013.jpg -> True
+Gyorffy Istvan_A cifraszur _2_Page_155_1.jpg -> True
+Szilagysag25.jpg -> True
+20190523115118774_Page_05(5).jpg -> True
+20190523112533915_0018.jpg -> True
+EME_ETF_159_Palotay-Mezosegi magyar himzesek_Page_014(1).jpg -> True
+MEGY_VASM_Sk_1996_Vasmegyenepmuveszete__pages150-174_Page_04_2.jpg -> True
+20190523115118774_Page_07(5).jpg -> True
+20190822103435946_0004.jpg -> True
+jaszssag5.jpg -> True
+Kalotaszeg3.jpg -> True
+KalotaszegCROP.jpeg -> True
+Palotay Gertrud_ Mezosegi magyar himzesek_07867_Page_090_1.jpg -> True
+Borsodi6(6).jpg -> False
+20190523112533915_0011(1).jpg -> True
+Borsodi14(3).jpg -> True
+20190523112533915_0012.jpg -> True
+Kalotaszeg16.jpeg -> True
+20190523115118774_Page_56.jpg -> True
+nagykun9.jpg -> True
+Palotay Gertrud_ Mezosegi magyar himzesek_07867_Page_026_2.jpg -> True
+PalotayGertrud_Mezosegimagyarhimzesek_07867_Page_107CROP.jpg -> True
+20190822103435946_0015.jpg -> True
+Gyorffy Istvan_A cifraszur _2_Page_078_2.jpg -> True
+MEGY_VASM_Sk_1996_Vasmegyenepmuveszete__pages150-174_Page_22_1.jpg -> True
+Szekely_keresztszemes16.jpg -> True
+Palotay Gertrud_ Mezosegi magyar himzesek_07867_Page_062_2.jpg -> True
+Gyorffy Istvan_A cifraszur _2_Page_069_1.jpg -> True
+Kalotaszeg33.jpg -> True
+MEGY_VASM_Sk_1996_Vasmegyenepmuveszete__pages150-174_Page_05_1.jpg -> True
+Gyorffy Istvan_A cifraszur _2_Page_143_1.jpg -> True
+MEGY_VASM_Sk_1996_Vasmegyenepmuveszete__pages150-174_Page_10_3.jpg -> True
+Gyorffy Istvan_A cifraszur _2_Page_083_2.jpg -> True
+Palotay Gertrud_ Mezosegi magyar himzesek_07867_Page_070_1.jpg -> True
+20190523115118774_Page_07(2).jpg -> True
+Palotay Gertrud_ Mezosegi magyar himzesek_07867_Page_066_2.jpg -> True
+20190523115118774_Page_54.jpg -> True
+Gyorffy Istvan_A cifraszur _2_Page_141_1.jpg -> True
+Gyorffy_Cifraszur62_1.jpg -> True
+Gyorffy Istvan_A cifraszur _2_Page_065_2.jpg -> True
+Gyorffy Istvan_A cifraszur _2_Page_161_1.jpg -> True
+20190822103435946_0014(1).jpg -> True
+PalotayGertrud_Mezosegimagyarhimzesek_07867_Page_096CROP.jpg -> True
+EME_ETF_159_Palotay-Mezosegi magyar himzesek_Page_031(1).jpg -> True
+nagykun32.jpg -> True
+Gyorffy Istvan_A cifraszur _2_Page_086_2.jpg -> True
+MEGY_VASM_Sk_1996_Vasmegyenepmuveszete__pages225-249_Page_25_4.jpg -> True
+DravaszogiHimzesek12.jpg -> True
+20190523115118774_Page_07(3).jpg -> True
+B785_B28788_MNM09_0000_0_tif.jpg -> True
+20190523115118774_Page_17.jpg -> True
+DravaszogiHimzesek1.jpg -> True
+Gyorffy Istvan_A cifraszur _2_Page_165_1.jpg -> True
+PalotayGertrud_Mezosegimagyarhimzesek_07867_Page_099.jpg -> True
+20190523115118774_Page_47.jpg -> True
+jaszssag15.jpg -> True
+Hodmezovasarhelyi szorhimzes1_2.jpg -> True
+Gyorffy_Cifraszur55_1.jpg -> True
+DravaszogiHimzesek40(1).jpg -> True
+Palotay Gertrud_ Mezosegi magyar himzesek_07867_Page_065_1.jpg -> True
+DravaszogiHimzesek28(1).jpg -> True
+Borsodi8(3).jpg -> True
+20190523115118774_Page_45(1).jpg -> True
+Palotay Gertrud_ Mezosegi magyar himzesek_07867_Page_030_2.jpg -> True
+Gyorffy Istvan_A cifraszur _2_Page_139_1.jpg -> True
+20190523112533915_0005(1).jpg -> True
+MEGY_VASM_Sk_1996_Vasmegyenepmuveszete__pages150-174_Page_21_1.jpg -> True
+DravaszogiHimzesek28.jpg -> True
+MEGY_VASM_Sk_1996_Vasmegyenepmuveszete__pages150-174_Page_03_1.jpg -> True
+MEGY_VASM_Sk_1996_Vasmegyenepmuveszete__pages150-174_Page_16_2.jpg -> True
+Szilagysag30.jpg -> True
+MEGY_VASM_Sk_1996_Vasmegyenepmuveszete__pages200-224_Page_08_1.jpg -> True
+20190523115118774_Page_63.jpg -> True
+DravaszogiHimzesek24.jpg -> True
+Gyorffy Istvan_A cifraszur _2_Page_078_1.jpg -> True
+DravaszogiHimzesek34.jpg -> True
+MEGY_VASM_Sk_1996_Vasmegyenepmuveszete__pages170-180_Page_02_1.jpg -> True
+MEGY_VASM_Sk_1996_Vasmegyenepmuveszete__pages150-174_Page_10_2.jpg -> True
+Palotay Gertrud_ Mezosegi magyar himzesek_07867_Page_028_1.jpg -> True
+Gyorffy_Cifraszu7_4.jpg -> True
+Palotay Gertrud_ Mezosegi magyar himzesek_07867_Page_073_1.jpg -> True
+20190822103435946_0020(1).jpg -> True
+Borsodi10(1).jpg -> True
+Palotay Gertrud_ Mezosegi magyar himzesek_07867_Page_071_2.jpg -> True
+Gyorffy_Cifraszur12_1.jpg -> True
+20190523112533915_0003(1).jpg -> True
+Kalotaszeg2.jpg -> True
+PalotayGertrud_Mezosegimagyarhimzesek_07867_Page_093CROP.jpg -> True
+Palotay Gertrud_ Mezosegi magyar himzesek_07867_Page_064_1.jpg -> True
+Gyorffy_Cifraszur15_1.jpg -> True
+Palotay Gertrud_ Mezosegi magyar himzesek_07867_Page_078_2.jpg -> True
+20190523112533915_0009.jpg -> True
+PalotayGertrud_Mezosegimagyarhimzesek_07867_Page_095.jpg -> True
+PalotayGertrud_Mezosegimagyarhimzesek_07867_Page_097.jpg -> True
+Palotay Gertrud_ Mezosegi magyar himzesek_07867_Page_057_2.jpg -> True
+Palotay Gertrud_ Mezosegi magyar himzesek_07867_Page_060_2.jpg -> True
+Borsodi13(4).jpg -> True
+Szilagysag13.jpg -> True
+Borsodi6(1).jpg -> True
+Borsodi12(2).jpg -> True
+Gyorffy Istvan_A cifraszur _2_Page_063_2.jpg -> True
+Kalotaszeg17.jpeg -> True
+Szekely_keresztszemes22.jpg -> True
+PalotayGertrud_EM-1942_47_04epa_516-529_Page_18CROP.jpg -> True
+Kalotaszeg_Malonyai1.jpeg -> True
+Gyorffy_Cifraszur36_1.jpg -> True
+DravaszogiHimzesek33.jpg -> True
+20190523112533915_0034.jpg -> True
+DravaszogiHimzesek9(1).jpg -> True
+Gyorffy_Cifraszur2_1.jpg -> True
+nagykun21.jpg -> True
+PalotayGertrud_EM-1942_47_04epa_516-529_Page_20CROP.jpg -> True
+20190523115118774_Page_26.jpg -> True
+jaszssag1.jpg -> True
+Gyorffy_Cifraszur63_1.jpg -> True
+20190523112533915_0017.jpg -> True
+nagykun26.jpg -> True
+kepeslapok_957579.jpg -> True
+PalotayGertrud_Mezosegimagyarhimzesek_07867_Page_093.jpg -> True
+Gyorffy Istvan_A cifraszur _2_Page_149_5.jpg -> True
+MEGY_VASM_Sk_1996_Vasmegyenepmuveszete__pages170-180_Page_05_2.jpg -> True
+Szekely_keresztszemes11.jpg -> True
+Borsodi5(11).jpg -> True
+nagykun28.jpg -> True
+DravaszogiHimzesek24(1).jpg -> True
+PalotayGertrud_Mezosegimagyarhimzesek_07867_Page_106CROP.jpg -> True
+Borsodi7(9).jpg -> True
+Kalotaszeg.jpeg -> True
+Szekely_keresztszemes17.jpg -> True
+Gyorffy Istvan_A cifraszur _2_Page_157_1.jpg -> True
+Palotay Gertrud_ Mezosegi magyar himzesek_07867_Page_087_1.jpg -> True
+Palotay Gertrud_ Mezosegi magyar himzesek_07867_Page_027_2.jpg -> True
+Palotay Gertrud_ Mezosegi magyar himzesek_07867_Page_064_2.jpg -> True
+DravaszogiHimzesek34(1).jpg -> True
+Kalotaszeg6.jpg -> True
+Gyorffy_Cifraszur40_1.jpg -> True
+kepeslapok_957579CROP7.jpg -> True
+jaszssag8.jpg -> True
+MEGY_VASM_Sk_1996_Vasmegyenepmuveszete__pages150-174_Page_06_2.jpg -> True
+Borsodi8(6).jpg -> True
+MEGY_VASM_Sk_1996_Vasmegyenepmuveszete__pages170-180_Page_11_1.jpg -> True
+Palotay Gertrud_ Mezosegi magyar himzesek_07867_Page_065_2.jpg -> True
+20190523115118774_Page_05.jpg -> True
+20190523115118774_Page_61.jpg -> True
+Kalotaszeg13.jpeg -> True
+MEGY_VASM_Sk_1996_Vasmegyenepmuveszete__pages150-174_Page_18_2.jpg -> True
+Gyorffy Istvan_A cifraszur _2_Page_057_1.jpg -> True
+Szekely_keresztszemes8.jpg -> True
+Gyorffy Istvan_A cifraszur _2_Page_166_2.jpg -> True
+EME_ETF_159_Palotay-Mezosegi magyar himzesek_Page_010.jpg -> True
+mintakonyv.jpg -> True
+PalotayGertrud_Mezosegimagyarhimzesek_07867_Page_108CROP.jpg -> True
+Szilagysag17.jpg -> True
+kepeslapok_957579CROP6.jpg -> True
+B785_B28788_MNM09_0019_tif.jpg -> True
+20190523112533915_0030.jpg -> True
+MEGY_VASM_Sk_1996_Vasmegyenepmuveszete__pages175-199_Page_11_1.jpg -> True
+Palotay Gertrud_ Mezosegi magyar himzesek_07867_Page_033_1.jpg -> True
+B785_B28788_MNM09_0026_tif.jpg -> True
+Borsodi18.jpg -> True
+EME_ETF_159_Palotay-Mezosegi magyar himzesek_Page_014.jpg -> True
+Szekely_keresztszemes20.jpg -> True
+20190523115118774_Page_08(1).jpg -> True
+Gyorffy_Cifraszur30_1.jpg -> True
+jaszssag11.jpg -> True
+zoboralja2.jpg -> True
+UndiMariska_sarkozi9.jpg -> True
+Palotay Gertrud_ Mezosegi magyar himzesek_07867_Page_060_1.jpg -> True
+Gyorffy Istvan_A cifraszur _2_Page_082_2.jpg -> True
+20190523115118774_Page_22.jpg -> True
+B785_B28780_MNM01_0001_05_tif.jpg -> True
+Gyorffy Istvan_A cifraszur _2_Page_071_1.jpg -> True
+PalotayGertrud_EM-1942_47_04epa_516-529_Page_09CROP.jpg -> True
+Kalotaszeg35.jpg -> True
+Gyorffy Istvan_A cifraszur _2_Page_083_1.jpg -> True
+DravaszogiHimzesek1(4).jpg -> True
+EME_ETF_159_Palotay-Mezosegi magyar himzesek_Page_012.jpg -> True
+DravaszogiHimzesek1(1).jpg -> True
+B785_B28788_MNM09_0021_tif.jpg -> True
+MEGY_VASM_Sk_1996_Vasmegyenepmuveszete__pages150-174_Page_24_1.jpg -> True
+PalotayGertrud_EM-1942_47_04epa_516-529_Page_08.jpg -> True
+PalotayGertrud_Mezosegimagyarhimzesek_07867_Page_091CROP.jpg -> True
+Gyorffy Istvan_A cifraszur _2_Page_164_1.jpg -> True
+20190523115118774_Page_23(2).jpg -> True
+Borsodi5(5).jpg -> True
+Borsodi5(9).jpg -> True
+nagykun16.jpg -> True
+Borsodi14(2).jpg -> True
+jaszssag29.jpg -> True
+20190523115118774_Page_42.jpg -> True
+Kalotaszeg8.jpg -> True
+Borsodi12.jpg -> True
+Gyorffy_Cifraszur49_1.jpg -> True
+Palotay Gertrud_ Mezosegi magyar himzesek_07867_Page_061_1.jpg -> True
+PalotayGertrud_Mezosegimagyarhimzesek_07867_Page_094.jpg -> True
+DravaszogiHimzesek16.jpg -> True
+PalotayGertrud_EM-1942_47_04epa_516-529_Page_08CROP.jpg -> True
+Szekely_keresztszemes13.jpg -> True
+20190523115118774_Page_06(2).jpg -> True
+DravaszogiHimzesek10.jpg -> True
+Hodmezovasarhelyi szorhimzes1_1.jpg -> True
+MEGY_VASM_Sk_1996_Vasmegyenepmuveszete__pages175-199_Page_10_3.jpg -> True
+Gyorffy Istvan_A cifraszur _2_Page_059_1.jpg -> True
+PalotayGertrud_Mezosegimagyarhimzesek_07867_Page_091CROP2.jpg -> True
+Szilagysag28.jpg -> True
+Gyorffy Istvan_A cifraszur _2_Page_172_2.jpg -> True
+20190523112533915_0005(4).jpg -> True
+20190822103435946_0018.jpg -> True
+Borsodi10.jpg -> True
+nagykun30.jpg -> True
+MEGY_VASM_Sk_1996_Vasmegyenepmuveszete__pages170-180_Page_04_2.jpg -> True
+nagykun1.jpg -> True
+Szekely_keresztszemes25.jpg -> True
+B785_B28788_MNM09_0008_tif.jpg -> True
+20190523115118774_Page_07(4).jpg -> True
+DravaszogiHimzesek10(1).jpg -> True
+20190822103435946_0017(4).jpg -> True
+Kalotaszeg3.jpeg -> True
+MEGY_VASM_Sk_1996_Vasmegyenepmuveszete__pages175-199_Page_04_1.jpg -> True
+Palotay Gertrud_ Mezosegi magyar himzesek_07867_Page_059_1.jpg -> True
+nagykun14.jpg -> True
+Palotay Gertrud_ Mezosegi magyar himzesek_07867_Page_039_1.jpg -> True
+Borsodi4(2).jpg -> True
+nagykun1CROP.jpg -> True
+Palotay Gertrud_ Mezosegi magyar himzesek_07867_Page_068_1.jpg -> True
+20190523112533915_0001(1).jpg -> True
+20190523115118774_Page_57.jpg -> True
+Somogy7.jpg -> True
+MEGY_VASM_Sk_1996_Vasmegyenepmuveszete__pages175-199_Page_03_1.jpg -> True
+Borsodi10(3).jpg -> True
+Borsodi7.jpg -> True
+Palotay Gertrud_ Mezosegi magyar himzesek_07867_Page_068_2.jpg -> True
+MEGY_VASM_Sk_1996_Vasmegyenepmuveszete__pages150-174_Page_05_2.jpg -> True
+20190523112533915_0003.jpg -> True
+jaszssag12.jpg -> True
+Borsodi5(7).jpg -> True
+DravaszogiHimzesek21.jpg -> True
+MEGY_VASM_Sk_1996_Vasmegyenepmuveszete__pages250-274_Page_02_2.jpg -> True
+nagykun29.jpg -> True
+MEGY_VASM_Sk_1996_Vasmegyenepmuveszete__pages170-180_Page_07_1.jpg -> True
+Szekely_keresztszemes4.jpg -> True
+Gyorffy Istvan_A cifraszur _2_Page_075_1.jpg -> True
+DravaszogiHimzesek23(1).jpg -> True
+Somogy6.jpg -> True
+nagykun5.jpg -> True
+EME_ETF_159_Palotay-Mezosegi magyar himzesek_Page_027(1).jpg -> True
+PalotayGertrud_EM-1942_47_04epa_516-529_Page_23CROP.jpg -> True
+Palotay Gertrud_ Mezosegi magyar himzesek_07867_Page_059_2.jpg -> True
+Gyorffy Istvan_A cifraszur _2_Page_086_3.jpg -> True
+PalotayGertrud_Mezosegimagyarhimzesek_07867_Page_103.jpg -> True
+Borsodi24.jpg -> True
+nagykun6.jpg -> True
+Gyorffy Istvan_A cifraszur _2_Page_237_1.jpg -> True
+Gyorffy Istvan_A cifraszur _2_Page_239_1.jpg -> True
+Kalotaszeg32.jpg -> True
+Palotay Gertrud_ Mezosegi magyar himzesek_07867_Page_031_2.jpg -> True
+Gyorffy Istvan_A cifraszur _2_Page_149_3.jpg -> True
+Gyorffy Istvan_A cifraszur _2_Page_147_2.jpg -> True
+DravaszogiHimzesek26(1).jpg -> True
+Somogy2.jpg -> True
+B785_B28780_MNM01_0015_tif.jpg -> True
+jaszssag26.jpg -> True
+B785_B28780_MNM01_0016_tif.jpg -> True
+nagykun19.jpg -> True
+PalotayGertrud_EM-1942_47_04epa_516-529_Page_15.jpg -> True
+MEGY_VASM_Sk_1996_Vasmegyenepmuveszete__pages175-199_Page_10_2.jpg -> True
+Palotay Gertrud_ Mezosegi magyar himzesek_07867_Page_011_3.jpg -> True
+Gyorffy Istvan_A cifraszur _2_Page_233_1.jpg -> True
+20190523115118774_Page_38.jpg -> True
+MEGY_VASM_Sk_1996_Vasmegyenepmuveszete__pages150-174_Page_07_1.jpg -> True
+Somogy5.jpg -> True
+20190523115118774_Page_27(1).jpg -> True
+EME_ETF_159_Palotay-Mezosegi magyar himzesek_Page_033(1).jpg -> True
+20190523115118774_Page_45.jpg -> True
+MEGY_VASM_Sk_1996_Vasmegyenepmuveszete__pages150-174_Page_13_1.jpg -> True
+Gyorffy Istvan_A cifraszur _2_Page_162_2.jpg -> True
+20190523112533915_0015(1).jpg -> True
+Gyorffy Istvan_A cifraszur _2_Page_078_3.jpg -> True
+PalotayGertrud_Mezosegimagyarhimzesek_07867_Page_105.jpg -> True
+B785_B28780_MNM01_0007_tif.jpg -> True
+Gyorffy_Cifraszur59_1.jpg -> True
+Borsodi15.jpg -> True
+DravaszogiHimzesek41(1).jpg -> True
+20190523112533915_0032.jpg -> True
+MEGY_VASM_Sk_1996_Vasmegyenepmuveszete__pages170-180_Page_02_2.jpg -> True
+Palotay Gertrud_ Mezosegi magyar himzesek_07867_Page_027_1.jpg -> True
+B785_B28788_MNM09_0032_tif.jpg -> True
+kepeslapok_957579CROP3.jpg -> True
+20190822103435946_0024.jpg -> True
+KalotaszegMalonyai3.jpeg -> True
+nagykun15.jpg -> True
+UndiMariska_sarkozi14.jpg -> True
+PalotayGertrud_EM-1942_47_04epa_516-529_Page_16CROP.jpg -> True
+Gyorffy Istvan_A cifraszur _2_Page_065_1.jpg -> True
+Gyorffy Istvan_A cifraszur _2_Page_221_1.jpg -> True
+Borsodi23.jpg -> True
+DravaszogiHimzesek39.jpg -> True
+Gyorffy Istvan_A cifraszur _2_Page_159_1.jpg -> True
+Borsodi14(4).jpg -> True
+MEGY_VASM_Sk_1996_Vasmegyenepmuveszete__pages200-224_Page_10_2.jpg -> True
+jaszssag4.jpg -> True
+nagykun20.jpg -> True
+Borsodi1.jpg -> True
+Palotay Gertrud_ Mezosegi magyar himzesek_07867_Page_075_2.jpg -> True
+DravaszogiHimzesek25(1).jpg -> True
+DravaszogiHimzesek2(1).jpg -> True
+MEGY_VASM_Sk_1996_Vasmegyenepmuveszete__pages175-199_Page_06_1.jpg -> True
+Borsodi5(10).jpg -> True
+UndiMariska_sarkozi13.jpg -> True
+Palotay Gertrud_ Mezosegi magyar himzesek_07867_Page_078_1.jpg -> True
+PalotayGertrud_Mezosegimagyarhimzesek_07867_Page_093CROP2.jpg -> True
+EME_ETF_159_Palotay-Mezosegi magyar himzesek_Page_028(1).jpg -> True
+MEGY_VASM_Sk_1996_Vasmegyenepmuveszete__pages170-180_Page_01_1.jpg -> True
+DravaszogiHimzesek21(1).jpg -> True
+Kalotaszeg12.jpeg -> True
+20190523112533915_0028.jpg -> True
+20190523115118774_Page_13.jpg -> True
+DravaszogiHimzesek17(1).jpg -> True
+nagykun24.jpg -> True
+nagykun8.jpg -> True
+B785_B28780_MNM01_0002_tif.jpg -> True
+Borsodi26.jpg -> True
+Gyorffy Istvan_A cifraszur _2_Page_239_5.jpg -> True
+DravaszogiHimzesek20(1).jpg -> True
+20190523115118774_Page_65.jpg -> True
+20190523112533915_0007(1).jpg -> True
+Gyorffy Istvan_A cifraszur _2_Page_229_1.jpg -> True
+MEGY_VASM_Sk_1996_Vasmegyenepmuveszete__pages175-199_Page_06_2.jpg -> True
+Gyorffy Istvan_A cifraszur _2_Page_163_2.jpg -> True
+Szilagysag32.jpg -> True
+Gyorffy Istvan_A cifraszur _2_Page_151_1.jpg -> True
+Borsodi5(4).jpg -> True
+20190822103435946_0021.jpg -> True
+Borsodi17.jpg -> True
+20190523112533915_0035.jpg -> True
+jaszssag14.jpg -> True
+Gyorffy Istvan_A cifraszur _2_Page_079_2.jpg -> True
+Gyorffy Istvan_A cifraszur _2_Page_149_1.jpg -> True
+Kalotaszeg11.jpeg -> True
+Palotay Gertrud_ Mezosegi magyar himzesek_07867_Page_089_2.jpg -> True
+20190523115118774_Page_58.jpg -> True
+jaszssag18.jpg -> True
+20190523112533915_0008.jpg -> True
+Borsodi4(4).jpg -> True
+Borsodi25(2).jpg -> True
+EME_ETF_159_Palotay-Mezosegi magyar himzesek_Page_025(1).jpg -> True
+Gyorffy Istvan_A cifraszur _2_Page_085_1.jpg -> True
+Borsodi6(9).jpg -> False
+jaszssag28.jpg -> True
+Gyorffy_Cifraszu7_1.jpg -> True
+20190523112533915_0020.jpg -> True
+PalotayGertrud_Mezosegimagyarhimzesek_07867_Page_100.jpg -> True
+PalotayGertrud_Mezosegimagyarhimzesek_07867_Page_091.jpg -> True
+20190523115118774_Page_05(3).jpg -> True
+MEGY_VASM_Sk_1996_Vasmegyenepmuveszete__pages225-249_Page_23_1.jpg -> True
+Gyorffy_Cifraszur9_1.jpg -> True
+B785_B28788_MNM09_0011_tif.jpg -> True
+Gyorffy Istvan_A cifraszur _2_Page_088_2.jpg -> True
+UndiMariska_sarkozi2.jpg -> True
+Palotay Gertrud_ Mezosegi magyar himzesek_07867_Page_077_2.jpg -> True
+PalotayGertrud_EM-1942_47_04epa_516-529_Page_09.jpg -> True
+Palotay Gertrud_ Mezosegi magyar himzesek_07867_Page_066_1.jpg -> True
+20190523115118774_Page_46.jpg -> True
+DravaszogiHimzesek14.jpg -> True
+Palotay Gertrud_ Mezosegi magyar himzesek_07867_Page_012_2.jpg -> True
+B785_B28788_MNM09_0015_tif.jpg -> True
+Szilagysag29.jpg -> True
+nagykun27.jpg -> True
+Borsodi4(7).jpg -> True
+Borsodi1(1).jpg -> True
+kepeslapok_957579CROP4.jpg -> True
+Palotay Gertrud_ Mezosegi magyar himzesek_07867_Page_025_1.jpg -> True
+20190523115118774_Page_21.jpg -> True
+20190523115118774_Page_18.jpg -> True
+EME_ETF_159_Palotay-Mezosegi magyar himzesek_Page_025.jpg -> True
+Gyorffy Istvan_A cifraszur _2_Page_067_2.jpg -> True
+B785_B28788_MNM09_0013_tif.jpg -> True
+Hodmezovasarhelyi szorhimzes2_1.jpg -> True
+Gyorffy Istvan_A cifraszur _2_Page_069_2.jpg -> True
+Borsodi7(4).jpg -> True
+Palotay Gertrud_ Mezosegi magyar himzesek_07867_Page_063_2.jpg -> True
+Gyorffy Istvan_A cifraszur _2_Page_145_1.jpg -> True
+20190523115118774_Page_08(2).jpg -> True
+EME_ETF_159_Palotay-Mezosegi magyar himzesek_Page_028.jpg -> True
+DravaszogiHimzesek12(1).jpg -> True
+PalotayGertrud_EM-1942_47_04epa_516-529_Page_20.jpg -> True
+zoboralja1.jpg -> True
+UndiMariska_sarkozi17.jpg -> True
+EME_ETF_159_Palotay-Mezosegi magyar himzesek_Page_009.jpg -> True
+UndiMariska_sarkozi16.jpg -> True
+Borsodi11(1).jpg -> True
+MEGY_VASM_Sk_1996_Vasmegyenepmuveszete__pages150-174_Page_12_2.jpg -> True
+MEGY_VASM_Sk_1996_Vasmegyenepmuveszete__pages150-174_Page_08_1.jpg -> True
+MEGY_VASM_Sk_1996_Vasmegyenepmuveszete__pages200-224_Page_16_1.jpg -> True
+20190523112533915_0024.jpg -> True
+DravaszogiHimzesek18(1).jpg -> True
+20190523115118774_Page_62.jpg -> True
+nagykun22.jpg -> True
+Gyorffy Istvan_A cifraszur _2_Page_225_2.jpg -> True
+MEGY_VASM_Sk_1996_Vasmegyenepmuveszete__pages225-249_Page_23_2.jpg -> True
+20190523115118774_Page_09.jpg -> True
+UndiMariska_sarkozi11.jpg -> True
+Palotay Gertrud_ Mezosegi magyar himzesek_07867_Page_010_1.jpg -> True
+Kalotaszeg23.jpg -> True
+20190523115118774_Page_26(1).jpg -> True
+PalotayGertrud_EM-1942_47_04epa_516-529_Page_13CROP.jpg -> True
+Palotay Gertrud_ Mezosegi magyar himzesek_07867_Page_033_2.jpg -> True
+DravaszogiHimzesek36(1).jpg -> True
+EME_ETF_159_Palotay-Mezosegi magyar himzesek_Page_031.jpg -> True
+MEGY_VASM_Sk_1996_Vasmegyenepmuveszete__pages150-174_Page_15_2.jpg -> True
+Gyorffy Istvan_A cifraszur _2_Page_174_1.jpg -> True
+MEGY_VASM_Sk_1996_Vasmegyenepmuveszete__pages170-180_Page_03_1.jpg -> True
+Palotay Gertrud_ Mezosegi magyar himzesek_07867_Page_071_1.jpg -> True
+20190523115118774_Page_43.jpg -> True
+Gyorffy Istvan_A cifraszur _2_Page_166_1.jpg -> True
+Gyorffy Istvan_A cifraszur _2_Page_086_1.jpg -> True
+MEGY_VASM_Sk_1996_Vasmegyenepmuveszete__pages225-249_Page_23_3.jpg -> True
+B785_B28788_MNM09_0029_tif.jpg -> True
+DravaszogiHimzesek32(1).jpg -> True
+20190523112533915_0016.jpg -> True
+Palotay Gertrud_ Mezosegi magyar himzesek_07867_Page_013_2.jpg -> True
+Borsodi4(1).jpg -> True
+Gyorffy Istvan_A cifraszur _2_Page_084_1.jpg -> True
+Borsodi4(5).jpg -> True
+Borsodi5(8).jpg -> True
+Palotay Gertrud_ Mezosegi magyar himzesek_07867_Page_011_1.jpg -> True
+Palotay Gertrud_ Mezosegi magyar himzesek_07867_Page_058_1.jpg -> True
+Szilagysag6.jpg -> True
+Gyorffy_Cifraszur47_1.jpg -> True
+kepeslapok_957579CROP5.jpg -> True
+PalotayGertrud_Mezosegimagyarhimzesek_07867_Page_104CROP.jpg -> True
+nagykun7.jpg -> True
+Gyorffy Istvan_A cifraszur _2_Page_171_1.jpg -> True
+EME_ETF_159_Palotay-Mezosegi magyar himzesek_Page_015.jpg -> True
+Palotay Gertrud_ Mezosegi magyar himzesek_07867_Page_010_2.jpg -> True
+MEGY_VASM_Sk_1996_Vasmegyenepmuveszete__pages150-174_Page_17_1.jpg -> True
+B785_B28780_MNM01_0017_tif.jpg -> True
+Borsodi10(2).jpg -> True
+Borsodi28.jpg -> True
+B785_B28780_MNM01_0014_tif.jpg -> False
+EME_ETF_159_Palotay-Mezosegi magyar himzesek_Page_029.jpg -> True
+20190523112533915_0010(1).jpg -> True
+20190822103435946_0023.jpg -> True
+KalotaszegMalonyai5.jpeg -> True
+Gyorffy Istvan_A cifraszur _2_Page_055_1.jpg -> True
+Gyorffy Istvan_A cifraszur _2_Page_081_1.jpg -> True
+PalotayGertrud_EM-1942_47_04epa_516-529_Page_17CROP.jpg -> True
+B785_B28780_MNM01_0008_tif.jpg -> True
+PalotayGertrud_Mezosegimagyarhimzesek_07867_Page_092CROP.jpg -> True
+20190523115118774_Page_06.jpg -> True
+20190822103435946_0002.jpg -> True
+B785_B28780_MNM01_0011_tif.jpg -> True
+Borsodi12(3).jpg -> True
+DravaszogiHimzesek9.jpg -> True
+Borsodi16.jpg -> True
+Szilagysag3.jpg -> True
+Szilagysag26.jpg -> True
+20190523115118774_Page_20(1).jpg -> True
+Gyorffy Istvan_A cifraszur _2_Page_173_1.jpg -> True
+Palotay Gertrud_ Mezosegi magyar himzesek_07867_Page_074_1.jpg -> True
+PalotayGertrud_Mezosegimagyarhimzesek_07867_Page_101.jpg -> True
+B785_B28788_MNM09_0009_tif.jpg -> True
+Palotay Gertrud_ Mezosegi magyar himzesek_07867_Page_034_2.jpg -> True
+Kalotaszeg18.jpeg -> True
+20190523112533915_0005(3).jpg -> True
+Borsodi1(5).jpg -> True
+Palotay Gertrud_ Mezosegi magyar himzesek_07867_Page_036_1.jpg -> True
+Gyorffy Istvan_A cifraszur _2_Page_071_2.jpg -> True
+PalotayGertrud_Mezosegimagyarhimzesek_07867_Page_102CROP.jpg -> True
+KalotaszegCROP2.jpeg -> True
+Borsodi16(1).jpg -> True
+Palotay Gertrud_ Mezosegi magyar himzesek_07867_Page_013_1.jpg -> True
+Gyorffy_Cifraszur54_1.jpg -> True
+Kalotaszeg19.jpeg -> True
+MEGY_VASM_Sk_1996_Vasmegyenepmuveszete__pages200-224_Page_16_3.jpg -> True
+Palotay Gertrud_ Mezosegi magyar himzesek_07867_Page_057_1.jpg -> True
+Gyorffy_Cifraszur50_1.jpg -> True
+MEGY_VASM_Sk_1996_Vasmegyenepmuveszete__pages150-174_Page_24_2.jpg -> True
+Gyorffy_Cifraszur50_2.jpg -> True
+MEGY_VASM_Sk_1996_Vasmegyenepmuveszete__pages150-174_Page_11_1.jpg -> True
+Borsodi6(8).jpg -> False
+Borsodi6(7).jpg -> False
+DravaszogiHimzesek26.jpg -> True
+20190523112533915_0001.jpg -> True
+jaszssag25.jpg -> True
+Gyorffy_Cifraszur48_1.jpg -> True
+20190523112533915_0013.jpg -> True
+DravaszogiHimzesek16(1).jpg -> True
+MEGY_VASM_Sk_1996_Vasmegyenepmuveszete__pages150-174_Page_22_2.jpg -> True
+MEGY_VASM_Sk_1996_Vasmegyenepmuveszete__pages150-174_Page_10_1.jpg -> True
+Palotay Gertrud_ Mezosegi magyar himzesek_07867_Page_076_1.jpg -> True
+Palotay Gertrud_ Mezosegi magyar himzesek_07867_Page_015_1.jpg -> True
+20190523112533915_0011.jpg -> True
+Gyorffy_Cifraszur58_1.jpg -> True
+Szekely_keresztszemes6.jpg -> True
+Gyorffy Istvan_A cifraszur _2_Page_227_4.jpg -> True
+DravaszogiHimzesek13(1).jpg -> True
+20190523115118774_Page_08.jpg -> True
+PalotayGertrud_EM-1942_47_04epa_516-529_Page_14CROP.jpg -> True
+20190523112533915_0004(1).jpg -> True
+Szekely_keresztszemes26.jpg -> True
+20190523115118774_Page_66.jpg -> True
+Palotay Gertrud_ Mezosegi magyar himzesek_07867_Page_073_2.jpg -> True
+Borsodi20.jpg -> True
+Kalotaszeg26.jpg -> True
+Palotay Gertrud_ Mezosegi magyar himzesek_07867_Page_036_2.jpg -> True
+Borsodi4.jpg -> True
+DravaszogiHimzesek25.jpg -> True
+DravaszogiHimzesek1(2).jpg -> True
+Borsodi6(5).jpg -> False
+20190822103435946_0022.jpg -> True
+Kalotaszeg9.jpg -> True
+B785_B28788_MNM09_0024_tif.jpg -> True
+PalotayGertrud_Mezosegimagyarhimzesek_07867_Page_100CROP.jpg -> True
+Szekely_keresztszemes18.jpg -> True
+MEGY_VASM_Sk_1996_Vasmegyenepmuveszete__pages225-249_Page_25_3.jpg -> True
+Palotay Gertrud_ Mezosegi magyar himzesek_07867_Page_067_2.jpg -> True
+Szilagysag20.jpg -> True
+20190822103435946_0013.jpg -> True
+Borsodi11(2).jpg -> True
+DravaszogiHimzesek38(1).jpg -> True
+B785_B28780_MNM01_0009_tif.jpg -> True
+Borsodi11(5).jpg -> True
+Kalotaszeg27.jpg -> True
+Palotay Gertrud_ Mezosegi magyar himzesek_07867_Page_012_1.jpg -> True
+DravaszogiHimzesek14(1).jpg -> True
+Gyorffy Istvan_A cifraszur _2_Page_162_1.jpg -> True
+Gyorffy Istvan_A cifraszur _2_Page_090_2.jpg -> True
+Gyorffy Istvan_A cifraszur _2_Page_057_2.jpg -> True
+Gyorffy Istvan_A cifraszur _2_Page_239_4.jpg -> True
+Gyorffy Istvan_A cifraszur _2_Page_167_1.jpg -> True
+20190523115118774_Page_06(3).jpg -> True
+DravaszogiHimzesek3.jpg -> True
+20190822103435946_0019.jpg -> True
+20190523112533915_0002(1).jpg -> True
+20190523115118774_Page_01(1).jpg -> True
+MEGY_VASM_Sk_1996_Vasmegyenepmuveszete__pages150-174_Page_20_2.jpg -> True
+20190523112533915_0009(1).jpg -> True
+20190822103435946_0022(1).jpg -> True
+Borsodi8.jpg -> True
+B785_B28788_MNM09_0017_tif.jpg -> True
+Borsodi6(3).jpg -> True
+20190523115118774_Page_05(2).jpg -> True
+DravaszogiHimzesek18.jpg -> True
+DravaszogiHimzesek7(1).jpg -> True
+20190523115118774_Page_08(5).jpg -> True
+DravaszogiHimzesek7.jpg -> True
+EME_ETF_159_Palotay-Mezosegi magyar himzesek_Page_012(2).jpg -> True
+EME_ETF_159_Palotay-Mezosegi magyar himzesek_Page_026.jpg -> True
+kepeslapok_957579CROP11.jpg -> True
+MEGY_VASM_Sk_1996_Vasmegyenepmuveszete__pages170-180_Page_03_2.jpg -> True
+20190822103435946_0014.jpg -> True
+MEGY_VASM_Sk_1996_Vasmegyenepmuveszete__pages170-180_Page_05_1.jpg -> True
+Palotay Gertrud_ Mezosegi magyar himzesek_07867_Page_014_1.jpg -> True
+B785_B28780_MNM01_0010_tif.jpg -> False
+DravaszogiHimzesek8.jpg -> True
+20190523112533915_0014.jpg -> True
+KalotaszegMalonyai.jpeg -> True
+20190523115118774_Page_05(1).jpg -> True
+Kalotaszeg28.jpg -> True
+Gyorffy Istvan_A cifraszur _2_Page_067_1.jpg -> True
+20190822103435946_0009.jpg -> True
+20190523112533915_0002.jpg -> True
+mintakonyv3.jpg -> True
+Gyorffy Istvan_A cifraszur _2_Page_161_2.jpg -> True
+B785_B28788_MNM09_0016_tif.jpg -> True
+Gyorffy Istvan_A cifraszur _2_Page_168_1.jpg -> True
+Gyorffy Istvan_A cifraszur _2_Page_170_3.jpg -> True
+PalotayGertrud_Mezosegimagyarhimzesek_07867_Page_105CROP.jpg -> True
+Palotay Gertrud_ Mezosegi magyar himzesek_07867_Page_088_1.jpg -> True
+Palotay Gertrud_ Mezosegi magyar himzesek_07867_Page_016_1.jpg -> True
+Palotay Gertrud_ Mezosegi magyar himzesek_07867_Page_012_3.jpg -> True
+Gyorffy Istvan_A cifraszur _2_Page_223_1.jpg -> True
+PalotayGertrud_Mezosegimagyarhimzesek_07867_Page_099CROP.jpg -> True
+20190822103435946_0003(1).jpg -> True
+Palotay Gertrud_ Mezosegi magyar himzesek_07867_Page_039_2.jpg -> True
+DravaszogiHimzesek4(1).jpg -> True
+DravaszogiHimzesek42(1).jpg -> True
+Szekely_keresztszemes21.jpg -> True
+Szilagysag1.jpg -> True
+MEGY_VASM_Sk_1996_Vasmegyenepmuveszete__pages175-199_Page_07_1.jpg -> True
+DravaszogiHimzesek3(1).jpg -> True
+20190523112533915_0005(5).jpg -> True
+Gyorffy Istvan_A cifraszur _2_Page_147_3.jpg -> True
+Palotay Gertrud_ Mezosegi magyar himzesek_07867_Page_069_1.jpg -> True
+Borsodi11.jpg -> True
+UndiMariska_sarkozi12.jpg -> True
+Borsodi8(1).jpg -> True
+20190523115118774_Page_14.jpg -> True
+PalotayGertrud_EM-1942_47_04epa_516-529_Page_12.jpg -> True
+20190523115118774_Page_50.jpg -> True
+Gyorffy Istvan_A cifraszur _2_Page_090_4.jpg -> True
+Szilagysag12.jpg -> True
+UndiMariska_sarkozi3.jpg -> True
+Kalotaszeg25.jpg -> True
+EME_ETF_159_Palotay-Mezosegi magyar himzesek_Page_033.jpg -> True
+20190523112533915_0005.jpg -> True
+20190523115118774_Page_27.jpg -> True
+Borsodi6.jpg -> True
+DravaszogiHimzesek32.jpg -> True
+EME_ETF_159_Palotay-Mezosegi magyar himzesek_Page_012(1).jpg -> True
+MEGY_VASM_Sk_1996_Vasmegyenepmuveszete__pages250-274_Page_02_1.jpg -> True
+jaszssag10.jpg -> True
+20190523115118774_Page_49.jpg -> True
+PalotayGertrud_Mezosegimagyarhimzesek_07867_Page_096.jpg -> True
+Palotay Gertrud_ Mezosegi magyar himzesek_07867_Page_037_2.jpg -> True
+Palotay Gertrud_ Mezosegi magyar himzesek_07867_Page_030_1.jpg -> True
+Kalotaszeg4.jpg -> True
+UndiMariska_sarkozi8.jpg -> True
+Gyorffy Istvan_A cifraszur _2_Page_147_4.jpg -> True
+Kalotaszeg31.jpg -> True
+20190822103435946_0016(1).jpg -> True
+Kalotaszeg36.jpg -> True
+Szilagysag11.jpg -> True
+Borsodi5(3).jpg -> True
+Szilagysag10.jpg -> True
+Szilagysag8.jpg -> True
+MEGY_VASM_Sk_1996_Vasmegyenepmuveszete__pages170-180_Page_08_1.jpg -> True
+jaszssag27.jpg -> True
+Kalotaszeg34.jpg -> True
+PalotayGertrud_Mezosegimagyarhimzesek_07867_Page_108.jpg -> True
+Borsodi7(8).jpg -> True
+Kalotaszeg14.jpeg -> True
+PalotayGertrud_Mezosegimagyarhimzesek_07867_Page_094CROP.jpg -> True
+DravaszogiHimzesek38.jpg -> True
+Borsodi13(1).jpg -> True
+MEGY_VASM_Sk_1996_Vasmegyenepmuveszete__pages170-180_Page_04_1.jpg -> True
+DravaszogiHimzesek1(3).jpg -> True
+PalotayGertrud_Mezosegimagyarhimzesek_07867_Page_095CROP.jpg -> True
+DravaszogiHimzesek17.jpg -> True
+Szilagysag31.jpg -> True
+Palotay Gertrud_ Mezosegi magyar himzesek_07867_Page_025_2.jpg -> True
+DravaszogiHimzesek1(6).jpg -> True
+20190523115118774_Page_12.jpg -> True
+Szilagysag16.jpg -> True
+Szekely_keresztszemes14.jpg -> True
+20190523115118774_Page_07(1).jpg -> True
+Gyorffy Istvan_A cifraszur _2_Page_235_1.jpg -> True
+MEGY_VASM_Sk_1996_Vasmegyenepmuveszete__pages150-174_Page_04_1.jpg -> True
+Gyorffy Istvan_A cifraszur _2_Page_077_2.jpg -> True
+Szilagysag4.jpg -> True
+20190523115118774_Page_01(2).jpg -> True
+Palotay Gertrud_ Mezosegi magyar himzesek_07867_Page_034_1.jpg -> True
+Gyorffy Istvan_A cifraszur _2_Page_087_1.jpg -> True
+DravaszogiHimzesek2.jpg -> True
+zoboralja11.jpg -> True
+MEGY_VASM_Sk_1996_Vasmegyenepmuveszete__pages150-174_Page_18_1.jpg -> True
+Gyorffy Istvan_A cifraszur _2_Page_080_1.jpg -> True
+nagykun3.jpg -> True
+20190822103435946_0017(2).jpg -> True
+jaszssag20.jpg -> True
+DravaszogiHimzesek35.jpg -> True
+Palotay Gertrud_ Mezosegi magyar himzesek_07867_Page_074_2.jpg -> True
+MEGY_VASM_Sk_1996_Vasmegyenepmuveszete__pages150-174_Page_19_1.jpg -> True
+Gyorffy_Cifraszur37_1.jpg -> True
+PalotayGertrud_EM-1942_47_04epa_516-529_Page_11CROP.jpg -> True
+B785_B28788_MNM09_0023_tif.jpg -> True
+Borsodi4(3).jpg -> True
+Gyorffy Istvan_A cifraszur _2_Page_170_2.jpg -> True
+Borsodi25(3).jpg -> True
+PalotayGertrud_EM-1942_47_04epa_516-529_Page_12CROP.jpg -> True
+Szilagysag23.jpg -> True
+Gyorffy Istvan_A cifraszur _2_Page_079_1.jpg -> True
+20190822103435946_0007.jpg -> True
+Kalotaszeg29.jpg -> True
+Kalotaszeg5.jpg -> True
+kepeslapok_957579CROP.jpg -> True
+jaszssag17.jpg -> True
+Gyorffy Istvan_A cifraszur _2_Page_239_7.jpg -> True
+Palotay Gertrud_ Mezosegi magyar himzesek_07867_Page_075_1.jpg -> True
+Palotay Gertrud_ Mezosegi magyar himzesek_07867_Page_031_1.jpg -> True
+Palotay Gertrud_ Mezosegi magyar himzesek_07867_Page_040_1.jpg -> True
+Gyorffy Istvan_A cifraszur _2_Page_147_1.jpg -> True
+MEGY_VASM_Sk_1996_Vasmegyenepmuveszete__pages170-180_Page_01_2.jpg -> True
+PalotayGertrud_Mezosegimagyarhimzesek_07867_Page_106.jpg -> True
+DravaszogiHimzesek13.jpg -> True
+Gyorffy Istvan_A cifraszur _2_Page_092_1.jpg -> True
+Palotay Gertrud_ Mezosegi magyar himzesek_07867_Page_029_2.jpg -> True
+MEGY_VASM_Sk_1996_Vasmegyenepmuveszete__pages150-174_Page_09_2.jpg -> True
+MEGY_VASM_Sk_1996_Vasmegyenepmuveszete__pages169-169_2.jpg -> True
+Gyorffy_Cifraszur61_2.jpg -> True
+Borsodi27.jpg -> True
+jaszssag23.jpg -> True
+Borsodi7(1).jpg -> True
+Borsodi7(6).jpg -> True
+DravaszogiHimzesek39(1).jpg -> True
+Gyorffy Istvan_A cifraszur _2_Page_174_2.jpg -> True
+DravaszogiHimzesek22.jpg -> True
+DravaszogiHimzesek30(1).jpg -> True
+kepeslapok_957579CROP2.jpg -> True
+20190822103435946_0008.jpg -> True
+PalotayGertrud_EM-1942_47_04epa_516-529_Page_19CROP.jpg -> True
+Borsodi5.jpg -> True
+Borsodi5(1).jpg -> True
+PalotayGertrud_Mezosegimagyarhimzesek_07867_Page_097CROP.jpg -> True
+Kalotaszeg30.jpg -> True
+Gyorffy Istvan_A cifraszur _2_Page_082_1.jpg -> True
+Szekely_keresztszemes7.jpg -> True
+Palotay Gertrud_ Mezosegi magyar himzesek_07867_Page_028_2.jpg -> True
+Palotay Gertrud_ Mezosegi magyar himzesek_07867_Page_061_2.jpg -> True
+Borsodi1(4).jpg -> True
+PalotayGertrud_EM-1942_47_04epa_516-529_Page_11.jpg -> True
+DravaszogiHimzesek11(1).jpg -> True
+Kalotaszeg1.jpeg -> True
+20190822103435946_0016.jpg -> True
+PalotayGertrud_Mezosegimagyarhimzesek_07867_Page_104.jpg -> True
+DravaszogiHimzesek5.jpg -> True
+Szilagysag14.jpg -> True
+MEGY_VASM_Sk_1996_Vasmegyenepmuveszete__pages225-249_Page_25_1.jpg -> True
+Gyorffy_Cifraszur32_1.jpg -> True
+Palotay Gertrud_ Mezosegi magyar himzesek_07867_Page_063_1.jpg -> True
+nagykun10.jpg -> True
+B785_B28788_MNM09_0018_tif.jpg -> True
+PalotayGertrud_Mezosegimagyarhimzesek_07867_Page_107.jpg -> True
+20190822103435946_0003.jpg -> True
+Szilagysag19.jpg -> True

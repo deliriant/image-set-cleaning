@@ -1,0 +1,28 @@
+Okay, so about the instructions:
+https://nipgdrive.inf.elte.hu/#file_id=712566531984237983
+Here you can log in with your user. You'll find 3 files:
+- A spreadsheet where you can reserve a GPU for yourself
+- A config file for the SSH configuration
+- A slideshow which will help you set up an apptainer (this is needed because you don't have admin rights on the machine but inside the apptainer you can install the needed runtime)
+
+You are hopefully able to edit the row for your group (N2). We'll have to choose a server for you. For that I'll need an estimate of how much RAM you will use. Will you fit into 11-12 GBs, or should we aim for more? 
+
+To access the machine you should go for ssh muhannad@nipg##.inf.elte.hu
+
+where ## will be the server's number (it depends on what kind of GPU we select for you)
+
+as there is a gateway for the servers you'll need to copy the config file to the corresponding location
+
+(it depends on your OS version)
+
+Actually let's select, the nipg13 for you
+
+It has a TITAN RTX in it
+
+24 GB memory
+
+that should be enough
+
+with a small batch size of course
+
+you should use the second GPU in the system by setting CUDA_VISIBLE_DEVICES=2 in as an env variable
